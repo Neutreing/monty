@@ -1,4 +1,3 @@
-div.c
 #include "monty.h"
 /**
  * f_div - divides the top two elements of the stack.
